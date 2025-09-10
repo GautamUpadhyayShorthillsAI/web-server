@@ -1,0 +1,35 @@
+# Chirpy Backend Dependencies
+# Generated from package.json for reference
+
+# Core Dependencies
+bcrypt==6.0.0
+dotenv==17.2.1
+drizzle-orm==0.44.4
+express==5.1.0
+jsonwebtoken==9.0.2
+postgres==3.4.7
+
+# Development Dependencies
+@types/bcrypt==6.0.0
+@types/express==5.0.3
+@types/jsonwebtoken==9.0.10
+@types/node==24.1.0
+drizzle-kit==0.31.4
+typescript==5.9.2
+
+# Additional Recommended Dependencies for Production
+# helmet                    # Security headers
+# cors                      # CORS support  
+# express-rate-limit        # Rate limiting
+# joi                       # Input validation
+# winston                   # Logging
+# compression               # Response compression
+# express-validator         # Request validation
+# morgan                    # HTTP request logger
+# uuid                      # UUID generation
+
+# Development Tools
+# nodemon                   # Development server
+# vitest                    # Testing framework
+# supertest                 # API testing
+# @types/supertest          # Testing types 
